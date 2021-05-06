@@ -3,7 +3,7 @@
 
 ## I'm a Student, Musician, and Developer!!
 
-- 🌱 I’m currently learning The MERN stack 🤣
+- 🌱 I’m currently learning The MERN stack 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and build more projects
 - ⚡ Fun fact: I love to play guitar 
