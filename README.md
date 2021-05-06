@@ -34,7 +34,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Parikshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikshitdas10)](https://github.com/parikshitdas10/github-readme-stats)
   <img align="left" alt="Parikshit's GitHub Stats" src="https://github-readme-stats.parikshitdas10.vercel.app/api?username=parikshitdas10&show_icons=true&hide_border=true" />
    
 </details>
@@ -42,3 +41,4 @@
 [instagram]: https://www.instagram.com/parikshitdas10/
 [linkedin]: https://www.linkedin.com/in/parikshit-das-3b5b381b5/
 [facebook]: https://www.facebook.com/parikshit.das.7127/
+[![Parikshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikshitdas10)](https://github.com/parikshitdas10/github-readme-stats)
