@@ -34,7 +34,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Parikshit's GitHub Stats" src="https://github-readme-stats.parikshitdas10.vercel.app/api?username=parikshitdas10&show_icons=true&hide_border=true" />
+  
    
 </details>
 
